@@ -31,7 +31,7 @@ https://lynxdev94.github.io/tech-task/
 
 🧪 Running Tests
 
-npm run test
+* npm run test
 
 📁 Possible improvements given more time:
 
