@@ -1,3 +1,6 @@
+# For access:
+https://lynxdev94.github.io/tech-task/
+
 📇 Contacts App
 
 * A React + Redux app to view, filter, and sort contacts.
